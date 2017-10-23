@@ -1,6 +1,6 @@
 # wx-cmovie
 微信小程序仿猫眼电影
 ===
-![image](http://github.com/wx-cmovie/pc/movielist.png)
-![image](http://github.com/wx-cmovie/pc/moviedetail.png)
-![image](http://github.com/wx-cmovie/pc/cinemalist.png)
+![image](https://github.com/LeePty/wx-cmovie/blob/master/pc/movielist.png)
+![image](https://github.com/LeePty/wx-cmovie/blob/master/pc/moviedetail.png)
+![image](https://github.com/LeePty/wx-cmovie/blob/master/pc/cinemalist.png)
