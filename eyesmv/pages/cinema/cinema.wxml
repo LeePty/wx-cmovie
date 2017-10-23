@@ -1,0 +1,19 @@
+<view class="top">
+    <view class="top_text">南昌</view>
+    <view class="top_select">
+        <input placeholder="找影院"/>
+    </view>
+</view>
+<view wx:for="{{cinemas1}}" wx:key="{{index}}" bindtap="">
+<navigator url="/pages/cinemaDetail/cinemaDetail?id={{item.id}}" class="item">
+    <view class="cn-nm">
+        <text class="nm">{{item.nm}}</text>
+        <text id="price">{{item.sellPrice}}元起</text>
+    </view>
+    <view class="cn-addr">{{item.addr}}</view>  
+    <view class="cn-at">
+        <text id="text" wx:if='{{item["sell"]}}'>座</text>
+        <text id="text" wx:if='{{item["imax"]}}'>IMAX厅</text>
+    </view>
+</navigator>
+</view>

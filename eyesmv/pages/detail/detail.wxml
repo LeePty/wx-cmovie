@@ -1,0 +1,49 @@
+<view class="top">
+<view class="t">
+    <view class="vd"> 
+        <video src="{{details.vd}}" class="mv-vd" controls="controls" autoplay="autoplay" />
+    </view>
+    <view class="mv-top-detail">
+        <text class="mv-nm">{{details.nm}}</text>
+        <text class="mv-sc" wx:if="{{details.preSale !=1}}">{{details.sc}}分</text>
+        <view class="mv-cat">
+            <text id="text">{{details.cat}}</text>
+        </view>
+        <view class="mv-ver">
+            <text id="text">{{details.ver}}</text>
+        </view>
+        <view class="mv-place-dur">
+            <text id="text">{{details.src}}</text>
+            <text id="text">/</text>
+            <text id="text">{{details.dur}}</text>
+            <text id="text">分钟</text>
+        </view>
+        <text id="text">{{details.rt}}</text>
+    </view>
+</view>
+<view class="op">
+    <button class="do xk">❤ 想看</button>
+    <button class="do pf">★ 评分</button>
+</view>
+</view>
+<view class="desc">   
+    <text class="mv-dra" style="{{hideText?'-webkit-line-clamp:3':''}}">{{details.dra}}</text>
+    <image class="{{hideClass}}" wx:if="'up=={{hideClass}}'?'':'down'" bindtap="showall"
+            style="width:25px;height:25px;" mode="aspectFit" src="{{localover}}"/>
+</view>
+<view class="line"></view>
+<view class="mv-bottom">
+    <view class="mv-bottom-top">
+        <text class="bottom-top">观众评论</text>
+    </view>
+    <block class="mv-content" class="item2" wx:for="{{detailS}}" wx:key="{{index}}" bindtap="">
+        <view class="hcuts-detail"> 
+            <image class="hcuts-img" src="{{item.avatarurl}}" style="width:30px;height:30px"/>
+            <text id="text1">{{item.nickName}}</text>
+            <text id="text1">{{item.time}}</text>
+        </view>
+        <view class="hcuts-detail">{{item.content}}</view>
+        <view class="line"></view>
+    </block>
+</view>
+

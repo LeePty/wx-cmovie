@@ -1,0 +1,17 @@
+<view>
+<navigator url="">
+    <view class="dd">我的订单</view>
+</navigator>
+<navigator url="">
+    <view class="yhj">优惠卷</view>
+</navigator>
+<navigator url="">
+    <view class="card">影城会员卡</view>
+</navigator>
+<navigator url="">
+    <view class="want">想看的电影</view>
+</navigator>
+<navigator url="">
+    <view class="over">看过的电影</view>
+</navigator>
+</view>

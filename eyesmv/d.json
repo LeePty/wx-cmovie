@@ -1,0 +1,83 @@
+{
+    "control":
+    {"expires":120},
+    "status":0,
+    "data":
+        {
+        "Dates":[
+            {"slug":"2017-08-03","text":"周四 8月03日"},
+            {"slug":"2017-08-04","text":"周五 8月04日"}
+            ],
+        "currentMovie":
+            {"nm":"三生三世十里桃花",
+                "isShowing":false,
+                "img":"http://p0.meituan.net/165.220/movie/b063b9ca66d23311b39c5367330dcb11873589.png",
+                "sc":0.0,
+                "preferential":0,
+                "ver":"3D/IMAX 3D",
+                "id":246896
+                },
+            "cinemaDetailModel":
+            {"imax":0,
+                "snum":42,
+                "s":8.285714,
+                "s1":8.285714,
+                "s2":8.476191,
+                "s3":8.238095,
+                "featureTags":[
+                    {"desc":"一号激光厅，152个座位；二号激光厅，152个座位；三号激光厅，152个座位；四号厅，195个座位；五号激光厅，113个座位；六号激光厅，116个座位；七号激光厅，113个座位","type":19,"tag":"60帧厅"},
+                    {"desc":"I Do巨幕厅，447个座位；巨幕厅","type":15,"tag":"杜比全景声厅"},
+                    {"desc":"1.3米以下儿童可免费观看电影（无座），每位成人仅限携带1名免票儿童。",
+                        "type":7,
+                        "tag":"儿童优惠"}
+                    ],
+                        "bus":"",
+                        "park":"",
+                        "nm":"奥斯卡金地国际影城(金地广场)",
+                        "ct":"西安",
+                        "area":"雁塔区",
+                        "sellmin":0,
+                        "sell":true,
+                        "addr":"雁塔区曲江池东路金地广场4楼（飞象披萨对面）",
+                        "lat":34.20359,
+                        "lng":108.98846,
+                        "callboard":"",
+                        "brd":"其它",
+                        "dis":"",
+                        "tel":["029-84561999","400-899-9527"],
+                        "suw":"",
+                        "dri":"",
+                        "note":"",
+                        "dealtp":0,
+                        "deals":"",
+                        "price":0.0,
+                        "preferential":0,"id":11533
+                        },
+                    "movies":[
+                        {"nm":"三生三世十里桃花",
+                            "isShowing":false,
+                            "img":"http://p0.meituan.net/165.220/movie/b063b9ca66d23311b39c5367330dcb11873589.png",
+                            "sc":0.0,
+                            "preferential":0,
+                            "ver":"3D/IMAX 3D",
+                            "id":246896},
+                            {"nm":"悟空传","isShowing":true,"img":"http://p0.meituan.net/165.220/movie/3534d263e6bc6f85412a147c4aaf4e46667953.jpg","sc":7.6,"preferential":0,"ver":"3D/IMAX 3D/中国巨幕/全景声","id":341375},{"nm":"神偷奶爸3","isShowing":true,"img":"http://p0.meituan.net/165.220/movie/e4aa7abb6ef5fbe695174063ac6cc0921246361.jpg","sc":8.8,"preferential":0,"ver":"3D/IMAX 3D/中国巨幕","id":249900},{"nm":"父子雄兵","isShowing":false,"img":"http://p0.meituan.net/165.220/movie/408f53c86382da0b959941904c01c32b291291.jpg","sc":8.2,"preferential":0,"ver":"2D","id":1196180},{"nm":"冈仁波齐","isShowing":true,"img":"http://p1.meituan.net/165.220/movie/7b1795a13a668935ac80c551016c2eb690110.jpg","sc":8.8,"preferential":0,"ver":"2D","id":342601},{"nm":"大护法","isShowing":true,"img":"http://p0.meituan.net/165.220/movie/14d327102710b25c4ad4acf33064b065104228.jpg","sc":8.2,"preferential":0,"ver":"3D/中国巨幕","id":344682},{"nm":"深夜食堂2","isShowing":false,"img":"http://p1.meituan.net/165.220/movie/53b25618e98f0ff82f633c31a0d8e78a463347.jpg","sc":0.0,"preferential":0,"ver":"2D","id":1142462},{"nm":"变形金刚5：最后的骑士","isShowing":true,"img":"http://p1.meituan.net/165.220/movie/ca0ac960ba900395084960270b5b0ad9790739.jpg","sc":7.4,"preferential":0,"ver":"2D/3D/IMAX 3D/中国巨幕/全景声","id":248645},{"nm":"喵星人","isShowing":true,"img":"http://p1.meituan.net/165.220/movie/0dc3be00bb030c6c871496ec74a168d52823468.jpg","sc":8.3,"preferential":0,"ver":"2D","id":346154},{"nm":"重返·狼群","isShowing":true,"img":"http://p0.meituan.net/165.220/movie/d9ca94c8bd0386038cb1ae4281ef3848660148.png","sc":9.3,"preferential":0,"ver":"2D","id":490367},{"nm":"绣春刀·修罗战场","isShowing":false,"img":"http://p0.meituan.net/165.220/movie/b0fc6fd58f1592dd31298149734ab2d8382151.jpg","sc":8.6,"preferential":0,"ver":"2D/中国巨幕","id":341189},{"nm":"京城81号II","isShowing":true,"img":"http://p0.meituan.net/165.220/movie/b54ff6d86280f53abde1c46b03f6dea1977483.jpg","sc":5.8,"preferential":0,"ver":"2D/3D/中国巨幕","id":344236},{"nm":"绝世高手","isShowing":true,"img":"http://p0.meituan.net/165.220/movie/66dbe34baa314ca79c7e6a65e89eea551088428.jpg","sc":7.5,"preferential":0,"ver":"2D/中国巨幕","id":1196168},{"nm":"青禾男高","isShowing":true,"img":"http://p0.meituan.net/165.220/movie/f633e97639c3697725a2bd2d3b491bff508139.jpg","sc":7.7,"preferential":0,"ver":"2D","id":672202}],
+                                "DateShow":
+                                {"2017-08-03":[
+                                    {"lang":"国语",
+                                        "tp":"3D",
+                                        "end":"14:00",
+                                        "grayDesc":"",
+                                        "seatStatus":1,
+                                        "isMorrow":false,
+                                        "th":"I Do巨幕厅",
+                                        "sellPrStr":"38496",
+                                        "prStr":"696915254330",
+                                        "tm":"14:00",
+                                        "sell":true,
+                                        "dt":"2017-08-03",
+                                        "showDate":"2017-08-03",
+                                        "showId":864,
+                                        "preferential":0,
+                                        "embed":0},
+                                        {"lang":"国语","tp":"3D","end":"14:40","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"三号激光厅","sellPrStr":"07395","prStr":"043815221450","tm":"14:40","sell":true,"dt":"2017-08-03","showDate":"2017-08-03","showId":865,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"15:20","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"四号厅","sellPrStr":"60394","prStr":"818215190660","tm":"15:20","sell":true,"dt":"2017-08-03","showDate":"2017-08-03","showId":866,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"16:10","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"I Do巨幕厅","sellPrStr":"96497","prStr":"364415745070","tm":"16:10","sell":true,"dt":"2017-08-03","showDate":"2017-08-03","showId":867,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"16:50","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"三号激光厅","sellPrStr":"55399","prStr":"759715086980","tm":"16:50","sell":true,"dt":"2017-08-03","showDate":"2017-08-03","showId":868,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"17:30","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"四号厅","sellPrStr":"17397","prStr":"921015536010","tm":"17:30","sell":true,"dt":"2017-08-03","showDate":"2017-08-03","showId":869,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"18:20","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"I Do巨幕厅","sellPrStr":"71497","prStr":"148315125540","tm":"18:20","sell":true,"dt":"2017-08-03","showDate":"2017-08-03","showId":870,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"19:00","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"三号激光厅","sellPrStr":"06397","prStr":"525815458400","tm":"19:00","sell":true,"dt":"2017-08-03","showDate":"2017-08-03","showId":871,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"19:35","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"四号厅","sellPrStr":"88395","prStr":"98900","tm":"19:35","sell":true,"dt":"2017-08-03","showDate":"2017-08-03","showId":3629,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"20:30","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"I Do巨幕厅","sellPrStr":"74498","prStr":"844715854780","tm":"20:30","sell":true,"dt":"2017-08-03","showDate":"2017-08-03","showId":873,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"21:10","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"三号激光厅","sellPrStr":"20391","prStr":"372415329620","tm":"21:10","sell":true,"dt":"2017-08-03","showDate":"2017-08-03","showId":874,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"21:40","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"四号厅","sellPrStr":"19395","prStr":"04905","tm":"21:40","sell":true,"dt":"2017-08-03","showDate":"2017-08-03","showId":3630,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"22:40","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"I Do巨幕厅","sellPrStr":"10498","prStr":"568915297280","tm":"22:40","sell":true,"dt":"2017-08-03","showDate":"2017-08-03","showId":876,"preferential":0,"embed":0}],"2017-08-04":[{"lang":"国语","tp":"3D","end":"10:00","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"一号激光厅","sellPrStr":"06377","prStr":"43909","tm":"10:00","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":306,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"10:30","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"三号激光厅","sellPrStr":"28376","prStr":"80902","tm":"10:30","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":307,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"11:00","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"二号激光厅","sellPrStr":"40378","prStr":"43902","tm":"11:00","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":308,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"11:30","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"四号厅","sellPrStr":"78379","prStr":"95908","tm":"11:30","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":309,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"12:00","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"一号激光厅","sellPrStr":"66375","prStr":"85909","tm":"12:00","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":310,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"12:30","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"三号激光厅","sellPrStr":"84371","prStr":"82902","tm":"12:30","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":311,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"13:00","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"二号激光厅","sellPrStr":"82379","prStr":"70902","tm":"13:00","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":312,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"13:30","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"四号厅","sellPrStr":"21379","prStr":"29905","tm":"13:30","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":313,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"14:00","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"I Do巨幕厅","sellPrStr":"65494","prStr":"693315321350","tm":"14:00","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":314,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"14:40","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"三号激光厅","sellPrStr":"71396","prStr":"96903","tm":"14:40","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":315,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"15:10","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"二号激光厅","sellPrStr":"01395","prStr":"32907","tm":"15:10","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":316,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"15:40","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"四号厅","sellPrStr":"72397","prStr":"323215372130","tm":"15:40","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":317,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"16:10","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"I Do巨幕厅","sellPrStr":"02497","prStr":"636715129670","tm":"16:10","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":318,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"16:50","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"三号激光厅","sellPrStr":"76392","prStr":"81904","tm":"16:50","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":319,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"17:20","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"二号激光厅","sellPrStr":"27395","prStr":"38901","tm":"17:20","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":320,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"17:50","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"四号厅","sellPrStr":"63398","prStr":"87908","tm":"17:50","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":321,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"18:20","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"I Do巨幕厅","sellPrStr":"22493","prStr":"691515157520","tm":"18:20","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":322,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"19:00","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"三号激光厅","sellPrStr":"26392","prStr":"82905","tm":"19:00","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":323,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"19:30","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"二号激光厅","sellPrStr":"97395","prStr":"13909","tm":"19:30","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":324,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"20:00","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"四号厅","sellPrStr":"75396","prStr":"73904","tm":"20:00","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":325,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"20:30","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"I Do巨幕厅","sellPrStr":"03491","prStr":"155515555660","tm":"20:30","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":326,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"21:00","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"三号激光厅","sellPrStr":"93390","prStr":"29902","tm":"21:00","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":327,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"21:30","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"二号激光厅","sellPrStr":"75394","prStr":"45907","tm":"21:30","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":328,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"22:05","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"四号厅","sellPrStr":"52372","prStr":"04902","tm":"22:05","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":329,"preferential":0,"embed":0},{"lang":"国语","tp":"3D","end":"22:40","grayDesc":"","seatStatus":1,"isMorrow":false,"th":"I Do巨幕厅","sellPrStr":"39499","prStr":"314215941990","tm":"22:40","sell":true,"dt":"2017-08-04","showDate":"2017-08-04","showId":330,"preferential":0,"embed":0}]},"cssLink":"//p0.meituan.net/movie/9ca4e6e45293ba96292f00ed964a24a22696.css"}}

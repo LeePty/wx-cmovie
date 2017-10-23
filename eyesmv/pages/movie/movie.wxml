@@ -1,0 +1,26 @@
+<view class="top">
+    <view class="top_text">南昌</view>
+    <view class="top_select">
+        <input placeholder="搜索"/>
+    </view>
+</view>
+<block wx:for="{{movies}}" wx:key="{{index}}" bindtap="">
+    <navigator url="/pages/detail/detail?id={{item.id}}" class="item" >
+    <view class="pic">
+    <image src="{{item.img}}"></image>
+    </view>
+    <view class="detail">
+        <title>{{item.nm}}
+            <text class="threeD" wx:if='{{item["3d"]}}'>3D</text>
+            <text class="iMax" wx:if='{{item["imax"]}}'>IMAX</text>
+            <text class="score" wx:if="{{item.preSale !=1}}">{{item.sc}}分</text>
+            <text class="wish" wx:else>{{item.wish}}人想看</text>
+        </title>
+        <view class="type">{{item.cat}}</view>
+        <view class="star">{{item.star}}</view>
+        <view class="showinfo">{{item.showInfo}}</view>
+        <view class="buy" wx:if="{{item.preSale !=1}}" style="background: red">购买</view>
+        <view class="buy" wx:else style="background:#008aff">预售</view>
+    </view>
+    </navigator>
+</block>
